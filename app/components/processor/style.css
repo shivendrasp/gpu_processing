@@ -107,6 +107,7 @@
 }
 
 .light-rays-01 {
+  transform-origin: center;
   fill: #fff;
   opacity: 0.8;
   animation: light-rays-01 4s linear infinite;
@@ -120,7 +121,7 @@
   }
   100% {
     transform-origin: center;
-    transform: translate(140px, 140px);
+    transform: translate(200px, 140px);
     rotate: 45deg;
   }
 }
