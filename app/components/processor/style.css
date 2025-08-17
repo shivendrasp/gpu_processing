@@ -110,7 +110,7 @@
   transform-origin: center;
   fill: #fff;
   opacity: 0.8;
-  filter: blur(4px);
+  /* filter: blur(4px); */
   animation: light-rays-01 4s linear infinite;
 }
 
